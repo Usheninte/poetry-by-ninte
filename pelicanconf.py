@@ -33,5 +33,8 @@ DEFAULT_CATEGORY = 'Poetry'
 
 # Extra cofigurations
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['extra']
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+}
 RELATIVE_URLS = True
