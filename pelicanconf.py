@@ -30,7 +30,8 @@ DEFAULT_PAGINATION = 42
 
 DEFAULT_CATEGORY = 'Poetry'
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# Extra cofigurations
+
+RELATIVE_URLS = True
 
 LOAD_CONTENT_CACHE = False
