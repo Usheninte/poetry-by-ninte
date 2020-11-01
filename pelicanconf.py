@@ -24,8 +24,7 @@ LINKS = (('Website', 'https://ninte.dev/'),
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/Usheninte'),
-          ('LinkedIn', 'https://www.linkedin.com/in/usheninte/'),
-          ('Instagram', 'https://www.instagram.com/usheninte/'),)
+          ('LinkedIn', 'https://www.linkedin.com/in/usheninte/'),)
 
 DEFAULT_PAGINATION = 42
 
