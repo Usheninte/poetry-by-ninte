@@ -27,7 +27,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/Usheninte'),
           ('LinkedIn', 'https://www.linkedin.com/in/usheninte/'),
           ('GitHub', 'https://github.com/Usheninte'),)
 
-DEFAULT_PAGINATION = 42
+DEFAULT_PAGINATION = 10
 
 DEFAULT_CATEGORY = 'Poetry'
 
