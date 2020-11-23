@@ -3,7 +3,7 @@
 
 AUTHOR = 'Usheninte Dangana'
 SITENAME = 'Poetry by Ninte'
-SITEURL = ''
+SITEURL = 'https://poetry.ninte.dev'
 
 PATH = 'content'
 
