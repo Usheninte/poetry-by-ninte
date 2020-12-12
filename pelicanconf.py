@@ -19,13 +19,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Website', 'https://ninte.dev/'),
-         ('Blog', 'https://blog.ninte.dev/'),)
+LINKS = (('Website', 'https://ninte.dev/'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/Usheninte'),
-          ('LinkedIn', 'https://www.linkedin.com/in/usheninte/'),
-          ('GitHub', 'https://github.com/Usheninte'),)
+SOCIAL = (('Twitter', 'https://twitter.com/Usheninte'),)
 
 DEFAULT_PAGINATION = 10
 
